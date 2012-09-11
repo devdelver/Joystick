@@ -12,7 +12,7 @@ The joystick module (hardware) has 5 pins, two potentiometers (X and Y axis) and
 
 To use this library, you need to connect VR? pins at analog inputs and the switch in a digital input.
 
-See tutorial, references and other stuff at "http://blog.devdelver.com/category/arduino".
+See tutorial, references and other stuff at "http://blog.devdelver.com/archives/785".
 
 CHANGE LOG
 -----------
