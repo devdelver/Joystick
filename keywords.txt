@@ -1,15 +1,15 @@
 ##
 ## Syntax Highlighting for Arduino IDE
 ##
-JoyAxis     KEYWORD1
-value       KEYWORD2
-centerValue KEYWORD2
-isAtCenter  KEYWORD2
+JoyAxis	KEYWORD1
+value	KEYWORD2
+centerValue	KEYWORD2
+isAtCenter	KEYWORD2
 
-Joystick       KEYWORD1
-update         KEYWORD2
-print          KEYWORD2
-getButtonEvent KEYWORD2
-X              KEYWORD2
-Y              KEYWORD2
+Joystick	KEYWORD1
+update	KEYWORD2
+print	KEYWORD2
+getButtonEvent	KEYWORD2
+X	KEYWORD2
+Y	KEYWORD2
 
